@@ -6,7 +6,7 @@
 
     ./clock.sh
     
-## C
+## C
 
     gcc -o clock clock.c
     ./clock
